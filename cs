@@ -92,10 +92,47 @@ top: show current running processes
 cal: show calendar
 
 
+
+INSTALLING USING PACKAGE MAANGER:
+---------------------------------
+
+Debian Based (Mint, Debian, Mobian, Parrot)
+
+
+Finding Packages:
+
+apt search PackageName
+
+
+Installing Package:
+
+sudo apt install PackageNameHere
+
+
+Upgrading:
+
+sudo apt update && sudo apt full-upgrade
+
+
+Removing Packages:
+
+sudo apt remove PackageNameHere
+
+
 -------------------
 END OF CHEATSHEET
 -------------------
 
+ADDING NEW COMMANDS TO YOUR CHEAT SHEET:
+
+(edit cs file (if installed /usr/share/cs/cs) to add new commands to your cheat sheet)
+
+
+
 (hit q to exit)
 
 (Enter 'cheatsheet' anytime you need to see the commands again)
+
+
+
+Originally Posted On RTP's Blog: https://www.buymeacoffee.com/politictech/linux-beginning-cheatsheet-command-picture
