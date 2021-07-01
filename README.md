@@ -8,16 +8,16 @@ the most essential commands at anytime.
 A simple cheatsheet to help reference essential navigation/shell commands.
 
 
-HOWTO:
+**HOWTO:**
 
--INSTALL:-
+**INSTALL:**
 
 1.) chmod +x install.sh
 
 2.) sudo install.sh
 
 
-USAGE:
+**USAGE:**
 
 After running install.sh you have a new command called cheatsheet.
 
@@ -28,7 +28,7 @@ cheatsheet
 (from any shell)
 
 
-Video channels:
+**Video channels:**
 
 ODYSEE VIDEO/FILE CHANNEL: https://odysee.com/$/invite/@RTP:9
 
@@ -39,7 +39,7 @@ BRIGHTEON: https://www.brighteon.com/channels/righttoprivacy
 BITCHUTE: https://www.bitchute.com/channel/yourprivacytv
 
 
-Main blog:
+**Main blog:**
 
 https://www.buymeacoffee.com/politictech/posts
 
