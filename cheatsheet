@@ -1,0 +1,32 @@
+#!/bin/bash
+#
+# cheatsheet: 
+# Simply prints commands for your reference until 
+# you can memorize them; feel free to add more. :)
+#
+#
+# Watch/Subscribe to my tutorials/tech/Linux/privacy channel:
+# 
+# ODYSEE VIDEO/FILE CHANNEL: ' https://odysee.com/$/invite/@RTP:9​ '
+# PEERTUBE: https://tube.tchncs.de/video-channels/privacy__tech_tips/videos
+# BRIGHTEON: https://www.brighteon.com/channels/righttoprivacy
+# BITCHUTE: https://www.bitchute.com/channel/yourprivacytv
+#
+# Subscribe to my Blog for tutorials on Linux/Single Board Computers/Pinephone/Privacy/Security
+# https://www.buymeacoffee.com/politictech/posts
+#
+# Backup blog: https://politictech.wordpress.com
+# 
+
+
+export WHITE='\e[1;37m'
+export BLUE='\033[1;94m'
+export RED='\033[1;91m'
+export ENDCOLOR='\033[1;00m'
+
+location='/usr/share/cs/cs'
+
+echo -e "$BLUE CHEATSHEET $ENDCOLOR"
+echo ' '
+
+less $location
