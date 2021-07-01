@@ -10,7 +10,7 @@ A simple cheatsheet to help reference essential navigation/shell commands.
 
 HOWTO:
 
-INSTALL:
+-INSTALL:-
 
 1.) chmod +x install.sh
 
